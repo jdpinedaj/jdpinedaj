@@ -8,5 +8,5 @@
 
 ## Reach me here
 * on my email juandpineda@gmail.com 📫
-* if you want to see my detailed cv, you can click this [link](bit.ly/CV_Pineda) 🥇
+* if you want to see my detailed cv, you can click this [link](https://www.bit.ly/CV_Pineda) 🥇
 
