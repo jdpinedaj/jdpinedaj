@@ -25,3 +25,11 @@
   <img src="https://github.com/melanieshi0120/melanieshi0120/raw/master/images/GCP_LOG.png" alt="GCP" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
  </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jdpinedaj&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jdpinedaj&repo=convoychat" />
+</a>
