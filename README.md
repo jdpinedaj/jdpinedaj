@@ -3,7 +3,7 @@
 ### 🚦 About me
 * 🎓 I'm PhD in applied Machine Learning
 * 💼 I'm a Data Scientist and Researcher
-* 🚀 I'm interested in several topics within the domain of Computer Science 💻 and Transport 🚋
+* 🚀 I'm interested in several topics within the domain of Computer Science and Transport
 * 🎮 I love videogames 
 
 ### ✉️ Reach me here
