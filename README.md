@@ -10,3 +10,5 @@
 * on my [LinkedIn](https://www.linkedin.com/in/juandpineda/) 🌎
 * if you want to see my detailed cv, you can click this [link](https://www.bit.ly/CV_Pineda) 🥇
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdpinedaj&theme=tokyonight)
