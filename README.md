@@ -26,4 +26,4 @@
   <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
  </p>
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdpinedaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdpinedaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
