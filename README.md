@@ -1,17 +1,18 @@
-## Hi there 👋 I'm Juan!
+## Hello 👋
 
-### 🚦 About me
-* 🎓 I'm PhD in applied Machine Learning
-* 💼 I'm a Data Scientist and Researcher
-* 🚀 I'm interested in several topics within the domain of Computer Science and Transport
-* 🎮 I love videogames 
+My name is Juan, I am from Colombia and I am a Data Scientist
+* I'm PhD in applied Machine Learning
+* Currently working for the University of Luxembourg
+* Critical thinking, decision-making and problem solving skills
+* Interested in various topics within the domain of Computer Science and Transport 🚅
+* I love videogames 🎮
 
-### ✉️ Reach me here
-* 📫 on my email juandpineda@gmail.com 
-* 🌎 on my [LinkedIn](https://www.linkedin.com/in/juandpineda/) 
-* 🥇 if you want to see my detailed cv, you can click this [link](https://www.bit.ly/CV_Pineda) 
+You can reach me here:
+* On my email juandpineda@gmail.com 📫 
+* On my [LinkedIn](https://www.linkedin.com/in/juandpineda/) 
+* If you want to see my detailed cv, you can click this [link](https://www.bit.ly/CV_Pineda) 
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px"> 
