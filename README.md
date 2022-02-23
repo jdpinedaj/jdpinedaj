@@ -2,7 +2,6 @@
 
 My name is Juan, I am from Colombia and I am a Data Scientist
 * I'm PhD in applied Machine Learning
-* Currently working for CFL multimodal (University of Luxembourg)
 * Critical thinking, decision-making and problem solving skills
 * Interested in various topics within the domain of Computer Science, Research and Development 🧠
 * I love videogames 🎮
