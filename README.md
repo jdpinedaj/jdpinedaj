@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Juan, I am a Data Scientist from Colombia
+My name is Juan, I am a Data Scientist/ML Engineer from Colombia
 * I'm PhD in applied Machine Learning
 * Critical thinking, decision-making and problem solving skills
 * Interested in various topics within the domain of Computer Science, Research and Development 🧠
