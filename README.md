@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Juan, I am a Data Scientist/ML Engineer from Colombia
+My name is Juan, I am a Data Scientist/ML Engineer
 * I'm PhD in applied Machine Learning
 * Critical thinking, decision-making and problem solving skills
 * Interested in various topics within the domain of Computer Science, Research and Development 🧠
@@ -24,7 +24,6 @@ You can reach me here:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://kedro.readthedocs.io/en/stable/_images/kedro_icon_no-type_blackbg.svg" alt="Kedro" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/melanieshi0120/melanieshi0120/raw/master/images/GCP_LOG.png" alt="GCP" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
  </p>
 
 <!---
