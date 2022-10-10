@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Juan Pineda, I am a Data Scientist/ML Engineer
+My name is Juan Pineda, I am a Data Scientist/Data Engineer
 * I'm PhD in applied Machine Learning
 * Critical thinking, decision-making and problem solving skills
 * Interested in various topics within the domain of Computer Science, Research and Development 🧠
