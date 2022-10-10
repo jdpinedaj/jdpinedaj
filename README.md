@@ -8,7 +8,7 @@ My name is Juan Pineda, I am a Data Scientist/ML Engineer
 
 You can reach me here:
 * On my email juandpineda@gmail.com 📫 
-* On my [LinkedIn](https://www.linkedin.com/in/juandpineda/) 
+* On my [LinkedIn](https://www.linkedin.com/in/jdpinedaj/) 
 * If you want to see my detailed cv, you can click this [link](https://www.bit.ly/CV_Pineda) 
 
 ## Languages and Tools:
