@@ -1,18 +1,20 @@
 ## Hello 👋
 
 I'm **Juan Pineda-Jaramillo**, PhD  
-**Data Scientist · LLM Engineer**
+**Data Scientist · LLM Engineer · AI Agents Builder**
 
-I design and deploy **production-grade AI systems**, with a strong focus on **LLMs, agentic architectures, and neuro-symbolic pipelines**.
+I design and deploy **production-grade AI systems**, with a strong focus on **LLMs, agentic architectures, RAG, and neuro-symbolic pipelines**.
 
-- PhD in Applied Machine Learning  
-- LLM engineering, prompt design, structured outputs, RAG & multi-agent systems  
-- End-to-end ML & GenAI pipelines (from research to production)  
-- Critical thinker, problem solver, lifelong learner 🧠  
+- PhD in Applied Machine Learning
+- LLM engineering: prompt design, structured outputs, tool use, evaluations
+- Agentic systems: multi-agent orchestration, autonomous dev loops, tool-using agents
+- RAG & retrieval: embeddings, hybrid search, vector stores (pgvector, Elasticsearch)
+- End-to-end ML & GenAI pipelines — from research to production (MLOps for AI)
+- Critical thinker, problem solver, lifelong learner 🧠
 - Videogames enthusiast 🎮
 
-**Industries:** Aviation, Pharma, Mobility, Finance, Retail  
-**Current focus:** LLM systems, GenAI agents, MLOps for AI
+**Industries:** Aviation, Mobility, Pharma, Finance, Retail  
+**Current focus:** LLM systems, agentic tooling, RAG at scale, MLOps for AI
 
 ### Get in touch
 - 📫 **Email:** juandpineda@gmail.com  
@@ -24,20 +26,22 @@ I design and deploy **production-grade AI systems**, with a strong focus on **LL
 <p align="left">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
-  <a href="https://jupyter.org/"><img src="https://github.com/melanieshi0120/melanieshi0120/raw/master/images/Jupyter_logo.png" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height="40"/></a>
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></a>
+  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></a>
+  <a href="https://www.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/></a>
+  <a href="https://www.anthropic.com/claude"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="40"/></a>
+  <a href="https://www.elastic.co/elasticsearch/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
   <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>
-  <a href="https://airflow.apache.org/"><img src="https://github.com/jghoman/awesome-apache-airflow/blob/master/airflow-logo.png" height="40"/></a>
-  <a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40"/></a>
-  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+  <a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height="40"/></a>
 </p>
-
-
-
 
 <!---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdpinedaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
