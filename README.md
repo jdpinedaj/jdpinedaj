@@ -9,11 +9,11 @@ I design and deploy **production-grade AI systems**, with a strong focus on **LL
 - LLM engineering: prompt design, structured outputs, tool use, evaluations
 - Agentic systems: multi-agent orchestration, autonomous dev loops, tool-using agents
 - RAG & retrieval: embeddings, hybrid search, vector stores (pgvector, Elasticsearch)
-- End-to-end ML & GenAI pipelines — from research to production (MLOps for AI)
+- End-to-end ML & GenAI pipelines - from research to production (MLOps for AI)
 - Critical thinker, problem solver, lifelong learner 🧠
 - Videogames enthusiast 🎮
 
-**Industries:** Aviation, Mobility, Pharma, Finance, Retail  
+**Industries:** Mobility, Pharma, Finance, Aviation, Mining, Retail  
 **Current focus:** LLM systems, agentic tooling, RAG at scale, MLOps for AI
 
 ### Get in touch
